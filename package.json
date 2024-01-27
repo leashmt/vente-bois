@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "build": "^0.1.4",
+    "form": "^0.2.4",
+    "formik": "^2.4.5",
+    "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "yup": "^1.3.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
